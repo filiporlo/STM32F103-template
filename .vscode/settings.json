@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "iostream": "c",
+        "string": "c",
+        "string.h": "c",
+        "stm32f100xb.h": "c",
+        "stdio.h": "c",
+        "cstdio": "c",
+        "newlib.h": "c",
+        "types.h": "c",
+        "errno.h": "c",
+        "stdint.h": "c"
+    }
+}
