@@ -1,3 +1,7 @@
+# List files
+*.lst
+*.lss
+
 # Prerequisites
 *.d
 
@@ -6,6 +10,7 @@
 *.ko
 *.obj
 *.elf
+*.bin
 
 # Linker output
 *.ilk
@@ -50,3 +55,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.dmp
